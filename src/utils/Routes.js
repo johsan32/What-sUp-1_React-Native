@@ -1,0 +1,16 @@
+export const Routes = {
+  SINGIN:"Sign In",
+  VERIFICATION:"Verification",
+  CONTACTS:"Contacts",
+  MESSAGE:"Message",
+  CALLS:"Calls",
+  CHATS:"Chats",
+  CHATBOX:"Chat Box",
+  SENDCHAT:"SendChat",
+  PROFIL:"Profile",
+  CONTACTADD:"Contact Add",
+  TAB:"Menu",
+  HOME: 'Anasayfa',
+  SPLASH:"Splash Screen",
+  USER: 'Profile',
+};
